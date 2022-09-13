@@ -1,4 +1,6 @@
+#include <stdio.h>
 #!/bin/bash
+
    /**
     
     *main - print the string in the printf function
