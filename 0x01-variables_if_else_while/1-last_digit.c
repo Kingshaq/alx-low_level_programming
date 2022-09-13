@@ -3,6 +3,7 @@
 #include <time.h>
 /*
  * main - Entry point
+ * Description: To determine last digit of any number
  * Return: Always 0 if successful
  */
 int main(void)
@@ -16,7 +17,7 @@ int main(void)
 	 */
 	if (n % 10 > 5)
 	{
-		printf("Last digir of %d is %d and is greater than 5\n", n, n % 10);
+		printf("Last digit of %d is %d and is greater than 5\n", n, n % 10);
 	}
 	else if (n % 10 == 0)
 	{
