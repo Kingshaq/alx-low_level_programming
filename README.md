@@ -1,1 +1,1 @@
-# alx-low_level_programming
+functioms for nested loop
